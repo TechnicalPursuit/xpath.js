@@ -517,7 +517,7 @@ XPathParser.actionTableNumber = [
 	"                             \x88      ",
 	"                             F\x89     ",
 	"#      T#                    ##  #  ",
-	"%   V  %%            U       %%  %  ",
+	"%   V  %"+"%            U       %"+"%  %  ",   // split because of packing
 	"'   'ZY''            'XW     ''  '  ",
 	"(   (ZY((            (XW     ((  (  ",
 	"+   +++++            +++\\[   ++  +  ",
