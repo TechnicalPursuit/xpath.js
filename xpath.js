@@ -101,6 +101,8 @@
  * Initial version: June 14, 2004
  */
 
+/*eslint indent:0, quotes:0, no-parameter-reassign:0, operator-linebreak:0, array-bracket-spacing:0, vars-on-top:0, one-var:0, init-declarations:0, newline-after-var:0,default-case:0*/
+
 !function () {
 // XPathParser ///////////////////////////////////////////////////////////////
 
